@@ -1,7 +1,7 @@
 ## Olá! Eu sou Daniel Fernando
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python, SQL e bibliotecas em Python
+- 🌱 Estudando Java e SQL
 - 📫 Contate-me pelo email: daniel.roots65@gmail.com
 
 
@@ -14,7 +14,7 @@
 </div>
 
 <div><br>
-    <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Daniel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Daniel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
