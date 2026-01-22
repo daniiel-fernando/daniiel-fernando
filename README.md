@@ -1,7 +1,7 @@
 ## Olá! Eu sou Daniel Fernando
 
-- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java e SQL
+- 🔭 Analista de segurança
+- 🌱 Estudando Linux e Automação
 - 📫 Contate-me pelo email: daniel.roots65@gmail.com
 
 
